@@ -10,7 +10,9 @@ I appreciate that people want to have the content after the fact so that is exac
 Intro level is in SQL_Injection\Intro folder.
 The slides as used in Defcon Glasgow (DC44141) are in the PDF in that folder.
 The Readme.md file explains how to start the targets used during the demonstration so you can play along.
-I recorded a video of content similar to what was said on the night which is on youtube <<here>>.
+I recorded a video of content similar to what was said on the night on youtube here:
+
+[![Intro to SQL Injection](https://img.youtube.com/vi/Q8DyLLGfJq0/0.jpg)](https://youtu.be/Q8DyLLGfJq0)
 
 ## Intermediate SQL Injection
 
