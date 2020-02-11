@@ -19,7 +19,9 @@ get error messages when you browse to the vulnerable pages saying the user does 
 
 * [Slides from talk](../intro/SQLi-Introduction.pdf)
 * [Demo Script and Notes](../intro/Intro-Demo.md)
-* [![Video: Intro to SQL Injection](https://img.youtube.com/vi/Q8DyLLGfJq0/0.jpg)](https://youtu.be/Q8DyLLGfJq0)
+* Video
+
+[![Video: Intro to SQL Injection](https://img.youtube.com/vi/Q8DyLLGfJq0/0.jpg)](https://youtu.be/Q8DyLLGfJq0)
 
 # Round2 Demo
 
