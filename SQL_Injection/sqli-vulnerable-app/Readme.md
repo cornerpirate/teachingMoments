@@ -17,11 +17,11 @@ get error messages when you browse to the vulnerable pages saying the user does 
 
 # Intro Demo
 
-[Slides from talk](/intro/SQLi-Introduction.pdf)
-[Demo Script and Notes](/intro/Intro-Demo.md)
+* [Slides from talk](../intro/SQLi-Introduction.pdf)
+* [Demo Script and Notes](../intro/Intro-Demo.md)
 
 # Round2 Demo
 
 -- This is work in progress so placeholder links to content.
-[Slides from talk](/intro/SQLi-round2.pdf)
-[Demo Script and Notes](/round2/Round2-Demo.md)
+* [Slides from talk](..//intro/SQLi-round2.pdf)
+* [Demo Script and Notes](../round2/Round2-Demo.md)
