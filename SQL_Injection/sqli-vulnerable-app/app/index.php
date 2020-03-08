@@ -40,4 +40,16 @@ function resetdb() {
 		<td><a href="/auth_bypass.php">Auth Bypass</a></td>
 	</tr>
 
+	<tr>
+		<td>Blind Injecting into String Field</td>
+		<td>Medium</td>
+		<td><a href="/blind_injecting_into_string.php">Blind Injection into String</a></td>
+	</tr>
+	<tr>
+		<td>Blind Injecting into Numeric Field</td>
+		<td>Medium</td>
+		<td><a href="/blind_injecting_into_numeric.php">Blind Injection into Numeric</a></td>
+	</td>
+
+
 </table>

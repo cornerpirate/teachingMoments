@@ -4,7 +4,7 @@ This requires Docker to work. Please goolge how to install Docker on your OS and
 
 The demo uses an existing lamp stack Docker image. This has a Ubuntu base, Apache2, MySQL and PHP baked into the image.
 To download and run the vulnerable application first enter the ```sqli-vulnerable-app``` directory and then execute the
-following docker commad:
+following docker commands:
 
 ```bash
 docker run -i -t -p "8888:80" -v ${PWD}/app:/app -v ${PWD}/mysql:/var/lib/mysql mattrayner/lamp:latest

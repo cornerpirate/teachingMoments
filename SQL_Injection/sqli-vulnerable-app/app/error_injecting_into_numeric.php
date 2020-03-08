@@ -10,7 +10,7 @@
         <title>SQL Injection: Injecting into Numeric Field</title>
     </head>
     <body>
-    <h3><SQL Injection: Injecting into Numeric Field/h3>
+    <h3>SQL Injection: Injecting into Numeric Field</h3>
     </br>
 
     <form method="GET">

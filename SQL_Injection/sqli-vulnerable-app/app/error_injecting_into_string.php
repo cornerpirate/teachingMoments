@@ -4,13 +4,14 @@
     if (session_status() == PHP_SESSION_NONE) {
         session_start();
     }
+
 ?>
 <html>
     <head>
         <title>SQL Injection: Injecting into String Field</title>
     </head>
     <body>
-    <h3><SQL Injection: Injecting into String Field/h3>
+    <h3>SQL Injection: Injecting into String Field</h3>
     </br>
 
     <form method="GET">

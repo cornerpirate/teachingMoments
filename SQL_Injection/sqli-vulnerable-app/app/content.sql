@@ -14,7 +14,7 @@ CREATE TABLE if not exists users (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 # Insert default users
-INSERT INTO users (id, username, password) VALUES (1, 'admin', 'secureguy');
+INSERT INTO users (id, username, password) VALUES (1, 'admin', 'secure');
 INSERT INTO users (id, username, password) VALUES (2, 'aaa', 'aaaaaa');
 INSERT INTO users (id, username, password) VALUES (3, 'bbb', 'bbbbbb');
 INSERT INTO users (id, username, password) VALUES (4, 'ccc', 'cccccc');
@@ -51,5 +51,6 @@ FLUSH PRIVILEGES;
 
 CREATE USER 'appuser'@'localhost' IDENTIFIED BY 'appuserpassword';
 GRANT ALL PRIVILEGES ON appdb.* TO 'appuser'@'localhost';
+GRANT FILE ON *.* TO 'appuser'@'localhost';
 FLUSH PRIVILEGES;
 
