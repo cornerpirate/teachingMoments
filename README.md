@@ -10,7 +10,7 @@ This was delivered in two chunks. The first will teach you the basics of SQL, an
 you can follow along with to highligh
 
 ## Intro to SQL Injection
-Intro level is in [SQL_Injection\Intro](SQL_Injection\Intro) folder.
+Intro level is in [SQL_Injection/Intro](SQL_Injection/Intro) folder.
 The slides as used in Defcon Glasgow (DC44141) for February 2020 are in the PDF in that folder.
 The Readme.md file explains how to start the target used during the demonstration so you can play along.
 I recorded a video of content similar to what was said on the night on youtube here:
@@ -19,7 +19,7 @@ I recorded a video of content similar to what was said on the night on youtube h
 
 ## Intro(ish) to SQL Injection
 
-The Intro(ish) level is in the [SQL_Injection\round2](SQL_Injection\round2) folder.
+The Intro(ish) level is in the [SQL_Injection/round2](SQL_Injection/round2) folder.
 The slides as used in Defcon Glasgow (DC44141) for March 2020 are in the PDF in that folder.
 The Readme.md file explains how to start the target used during the demonstration so you can play along.
 I recorded a video of content similar to what was said ont he night on youtube here:
