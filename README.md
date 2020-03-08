@@ -6,18 +6,22 @@ I appreciate that people want to have the content after the fact so that is exac
 
 # SQL Injection
 
-## Introduction to SQL Injection
-Intro level is in SQL_Injection\Intro folder.
-The slides as used in Defcon Glasgow (DC44141) are in the PDF in that folder.
-The Readme.md file explains how to start the targets used during the demonstration so you can play along.
+This was delivered in two chunks. The first will teach you the basics of SQL, and SQL injection and has demonstrations
+you can follow along with to highligh
+
+## Intro to SQL Injection
+Intro level is in [SQL_Injection\Intro](SQL_Injection\Intro) folder.
+The slides as used in Defcon Glasgow (DC44141) for February 2020 are in the PDF in that folder.
+The Readme.md file explains how to start the target used during the demonstration so you can play along.
 I recorded a video of content similar to what was said on the night on youtube here:
 
 [![Intro to SQL Injection](https://img.youtube.com/vi/Q8DyLLGfJq0/0.jpg)](https://youtu.be/Q8DyLLGfJq0)
 
-## Intermediate SQL Injection
+## Intro(ish) to SQL Injection
 
-...
+The Intro(ish) level is in the [SQL_Injection\round2](SQL_Injection\round2) folder.
+The slides as used in Defcon Glasgow (DC44141) for March 2020 are in the PDF in that folder.
+The Readme.md file explains how to start the target used during the demonstration so you can play along.
+I recorded a video of content similar to what was said ont he night on youtube here:
 
-Stay tuned, I will be covering blind SQL injection and getting shells hopefully at the March 2020 DC44141 meetup. 
-If you can be in Glasgow for the live show then you are absolutely welcome. It is held on the Glasgow Caledonian University campus 
-in the Student's Association building (building number 5 on the campus map). Doors open at 6:30pm, and the talks start generally at 7pm. 
+[![Intro(ish) to SQL Injection](https://img.youtube.com/vi/h4DRKwhUfPE/0.jpg)](https://youtu.be/h4DRKwhUfPE)
