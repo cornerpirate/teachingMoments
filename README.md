@@ -7,7 +7,7 @@ I appreciate that people want to have the content after the fact so that is exac
 # SQL Injection
 
 This was delivered in two chunks. The first will teach you the basics of SQL, and SQL injection and has demonstrations
-you can follow along with to highligh
+you can follow along with too.
 
 ## Intro to SQL Injection
 Intro level is in [SQL_Injection/intro](SQL_Injection/intro) folder.
